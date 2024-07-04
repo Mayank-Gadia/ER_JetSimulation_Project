@@ -12,7 +12,7 @@ Installation
 1.	Clone the Repository:
 sh
 Copy code
-git clone https://github.com/your-repository/JetTurbineSimulation.git
+git clone [https://github.com/your-repository/JetTurbineSimulation.git](https://github.com/Mayank-Gadia/ER_JetSimulation_Project)
 2.	Open the Project in Unity:
 o	Open Unity Hub.
 o	Click on "Open" and select the cloned project directory.
